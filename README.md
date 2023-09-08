@@ -21,4 +21,4 @@ xCrack Pro for android.
 
 ## Features
 - Enable Premium features for specific apps.
-- join telegram channel https://t.me/xCrack_Pro
+- Join our [Telegram channel](https://t.me/xCrack_Pro) for updates and support.
