@@ -1,6 +1,8 @@
 # xCrack-Pro
 
-![App Logo](logo.png)
+<div align="center">
+  <img src="logo.png" width="300" height="300" alt="App Logo">
+</div>
 
 ## Description
 xCrack Pro for android.
@@ -14,7 +16,7 @@ xCrack Pro for android.
   <img src="sc4.png" alt="Screenshot 4" width="400" height="830">
 </div>
 
-* User interface *
+* User interface
 
 
 ## Features
