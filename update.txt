@@ -1,4 +1,4 @@
 {
   "LV": "1.2.9",
-  "CL": "A new version available"
+  "CL": "Changelog: \n- UI update \n- Code fix \n- Hooks update ..."
 }
