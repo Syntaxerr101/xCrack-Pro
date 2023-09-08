@@ -8,10 +8,10 @@ xCrack Pro for android.
 
 ## Screenshots
 <div style="display: flex; justify-content: center;">
-  <img src="pic1.png" alt="Screenshot 1" width="400" height="830" style="margin-right: 20px;">
-  <img src="pic2.png" alt="Screenshot 2" width="400" height="830">
-  <img src="pic3.png" alt="Screenshot 3" width="400" height="830" style="margin-right: 20px;">
-  <img src="pic4.png" alt="Screenshot 4" width="400" height="830">
+  <img src="sc1.png" alt="Screenshot 1" width="400" height="830" style="margin-right: 20px;">
+  <img src="sc2.png" alt="Screenshot 2" width="400" height="830">
+  <img src="sc3.png" alt="Screenshot 3" width="400" height="830" style="margin-right: 20px;">
+  <img src="sc4.png" alt="Screenshot 4" width="400" height="830">
 </div>
 
 * User interface *
