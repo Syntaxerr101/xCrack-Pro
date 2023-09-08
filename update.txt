@@ -1,0 +1,4 @@
+{
+  "LV": "1.2.7",
+  "CL": "A new version available"
+}
