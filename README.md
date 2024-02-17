@@ -9,12 +9,15 @@ xCrack Pro for android.
 - XPOSED MODULE.
 
 ## Screenshots
-<div style="display: flex; justify-content: center;">
-  <img src="sc1.png" alt="Screenshot 1" width="400" height="830" style="margin-right: 20px;">
-  <img src="sc2.png" alt="Screenshot 2" width="400" height="830">
-  <img src="sc3.png" alt="Screenshot 3" width="400" height="830" style="margin-right: 20px;">
-  <img src="sc4.png" alt="Screenshot 4" width="400" height="830">
-</div>
+<p float="left">
+  <img src="sc1.png" width="45%" />
+  <img src="sc2.png" width="45%" /> 
+</p>
+
+<p float="left">
+  <img src="sc3.png" width="45%" />
+  <img src="sc4.png" width="45%" /> 
+</p>
 
 * User interface
 
